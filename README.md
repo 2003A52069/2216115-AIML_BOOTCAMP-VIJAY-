@@ -1,2 +1,1 @@
-# 2216115-AIML_BOOTCAMP-VIJAY-
-ASSIGNMENT -1 (AIML_BOOTCAMP)
+# Webapp_Malaria_Outbreak_prediction
