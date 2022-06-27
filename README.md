@@ -1,1 +1,1 @@
-# Webapp_Malaria_Outbreak_prediction
+# Webapp_Malaria_Outbreak
